@@ -1,1 +1,8 @@
+
+B
+C
+Lorem ipsum B
+B
+B
+B
 This is the file added in commit pus-0002 
